@@ -8,6 +8,8 @@ TagManager:
   - SpinningCCW
   - Static
   - UpDown
+  - SideToSide
+  - Hurts
   layers:
   - Default
   - TransparentFX

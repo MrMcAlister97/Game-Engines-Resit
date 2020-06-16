@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour
     public GameObject player;
     private Vector3 Offset;
 
-    // Start is called before the first frame update
+    // this is used to follow the player around
     void Start()
     {
         Offset = transform.position - player.transform.position;
