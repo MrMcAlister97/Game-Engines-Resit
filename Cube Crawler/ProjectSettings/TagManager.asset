@@ -10,6 +10,7 @@ TagManager:
   - UpDown
   - SideToSide
   - Hurts
+  - GM
   layers:
   - Default
   - TransparentFX
