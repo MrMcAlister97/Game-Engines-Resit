@@ -1,10 +1,11 @@
 Win64
 PlayerPath?
-D:/Re-Sits/Game 1/Game-Engines-Resit/Build V0.2/Cube Crawler.exe
+D:/Re-Sits/Game 1/Game-Engines-Resit/Final Game/Cube Crawler.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/MainGame.unity
 Assets/Scenes/HowToPlay.unity
+Assets/Scenes/Win.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 77c21079ace8d76ce6e941d3dabbfe6e Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
